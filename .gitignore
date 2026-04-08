@@ -1,0 +1,8 @@
+results/
+data/
+venv/
+__pycache__/
+*.pt
+*.safetensors
+*.bin
+*.zip
